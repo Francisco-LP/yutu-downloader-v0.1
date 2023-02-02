@@ -1,2 +1,7 @@
 # yutu-downloader-v0.1
-app para descargar videos de youtube
+App para descargar videos de youtube
+
+requerimiento
+
+pytube
+custumertkinter
