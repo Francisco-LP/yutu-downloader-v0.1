@@ -3,5 +3,8 @@ App para descargar videos de youtube
 
 requerimiento
 
+tkinter
+
 pytube
+
 custumertkinter
