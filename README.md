@@ -1,10 +1,15 @@
 # yutu-downloader-v0.1
 App para descargar videos de youtube
 
-requerimiento
+(Dependencias)
 
-tkinter
+tkinter             sudo dnf install python3-tkinter (Fedora)
 
-pytube
+pytube              pip install pytube
 
-custumertkinter
+custumertkinter     pip install custumertkinter
+
+
+
+
+
