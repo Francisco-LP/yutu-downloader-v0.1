@@ -1,4 +1,4 @@
-# yutu-downloader-v0.1
+# yutu-downloader-v0.2
 App para descargar videos de youtube
 
 (Dependencias)
